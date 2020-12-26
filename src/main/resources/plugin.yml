@@ -1,0 +1,11 @@
+name: MusicPlay0r
+main: works.baehyeonwoo.musicplay0r.MusicMain
+version: 0.1
+website: https://baehyeonwoo.works/
+author: BaeHyeonWoo | qogusdn1017
+description: "Plays music on your Frums Resourcpack."
+api-version: 1.13
+commands:
+  music:
+    description: Plays music on your Frums Resourcpack.
+    usage: "/music 1"

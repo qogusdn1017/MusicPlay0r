@@ -1,2 +1,8 @@
 # MusicPlay0r
-Resourcepack music player plugin. For FrumsResx.
+Minecraft Resourcepack Music Player. On this code, it's for Frums Resourcepack that I made only.
+
+## BUILD
+
+> `gradlew clean shadowJar` or `gradlew clean distJar`
+
+---
