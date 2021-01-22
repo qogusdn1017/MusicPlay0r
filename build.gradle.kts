@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "works.baehyeonwoo.musicplay0r"
-version = "0.1"
+version = "0.1.1"
 
 repositories {
     maven("https://papermc.io/repo/repository/maven-public/")
